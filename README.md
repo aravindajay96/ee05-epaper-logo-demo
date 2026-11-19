@@ -1,6 +1,10 @@
 # AGRO E-Paper Display Demo (Seeed Studio XIAO)
 
-Firmware and assets for displaying the **AGRO (Robotics for Agriculture)** logo and handling interactive button triggers on a 400×300 E-Paper display driven by a **Seeed Studio XIAO** microcontroller[cite: 1, 2, 4].
+Firmware and assets for displaying the **AGRO (Robotics for Agriculture)** logo and handling interactive button triggers on a 400×300 E-Paper display driven by a **Seeed Studio XIAO** microcontroller.
+
+<p align="center">
+  <img src="images/Epaper_Display_Logo_preview.jpg" alt="Seeed Studio XIAO 4.2 inch ePaper Testing" width="500">
+</p>
 
 ## Features
 
